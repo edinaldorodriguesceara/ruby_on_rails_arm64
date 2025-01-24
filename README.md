@@ -7,13 +7,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/411px-Ruby_On_Rails_Logo.svg.png" alt="Ruby on Rails Logo" width="300"/>
 </p>
 
-
-https://github.com/juniormesquitadandao/gerlessver
-
-
 ```bash
 git clone git@github.com:edinaldorodriguesceara/ruby_on_rails_gerlessver.git
-cd ruby_on_rails_gerlessver
+cd ruby_on_rails_arm64
 
   ARG_USER_UID=$(id -u) ARG_USER_GID=$(id -g) docker compose config
   ARG_USER_UID=$(id -u) ARG_USER_GID=$(id -g) docker compose build
