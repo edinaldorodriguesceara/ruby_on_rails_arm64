@@ -8,7 +8,7 @@
 </p>
 
 ```bash
-git clone git@github.com:edinaldorodriguesceara/ruby_on_rails_gerlessver.git
+git clone git@github.com:edinaldorodriguesceara/ruby_on_rails_arm64.git
 cd ruby_on_rails_arm64
 
   ARG_USER_UID=$(id -u) ARG_USER_GID=$(id -g) docker compose config
