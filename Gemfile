@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "redis", "~> 5.3"
+gem "redis", "~> 5.4"
